@@ -1,6 +1,6 @@
 Questão 1
 Variáveis a serem criadas:
-int, double, booleano e strint
+int, double, booleano e String
 
 Tipos de dados:
 Nome Completo - String
