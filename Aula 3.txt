@@ -1,9 +1,9 @@
 Questão 1
 Variáveis a serem criadas:
-int, doubl, booleano e strint
+int, double, booleano e strint
 
 Tipos de dados:
-nomeCompleto - String
+Nome Completo - String
 Idade - int
 altura (em metros) - double
 Se está matriculado ou não - booleano
@@ -13,7 +13,7 @@ Variáveis:
 int, double, booleano e string
 
 Dados:
-nomeProduto - String
+Nome do Produto - String
 Quantidade em estoque - int
 Preço unitário - double
 Disponível para venda - booleano
@@ -23,9 +23,9 @@ Variáveis:
 int, double, booleano e string
 
 Dados:
-nomeEvento - String
+Nome do Evento - String
 Número de participantes esperados - int
 Preço do ingresso - double
 Se o evento será presencial - booleano
 
-Fim da atividade.
+Final da atividade da aula 3.
