@@ -22,7 +22,7 @@ public class Retangulo {
         scan.close();
     }
 }
----------------------------------------------------------------
+____________________________________________
 Atividade 02 Comparação de idades.
 import java.util.Scanner;
 public class CompararIdades {
