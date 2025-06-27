@@ -1,8 +1,8 @@
-Atividade 01 Calcular a área e perímetro de um retangulo.
+Atividade 01 Calcular a área e perímetro do retangulo.
 import java.util.Scanner;
 public class Retangulo {
 
-    public static vois main(String[] args) {
+    public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
         double base, altura, area, perimetro;
@@ -23,7 +23,7 @@ public class Retangulo {
     }
 }
 ____________________________________________
-Atividade 02 Comparação de idades.
+Atividade 02 Comparar as idades.
 import java.util.Scanner;
 public class CompararIdades {
 
